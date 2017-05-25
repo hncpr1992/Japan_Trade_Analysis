@@ -3,7 +3,7 @@
 Data analysis on apan's international trade by country and type of good <br>
 Data Source: https://www.kaggle.com/zanjibar/japan-trade-statistics
 
-<img src="jap_area_trade.png" height="900" width="750">
+<img src="jap_area_trade.png" width="800">
 
 This graph shows that back to 1988, The North America is the biggest trading partner of Japan, Howver, after 1990, Asia start to replace the position of North America and lead with a very huge gap compared to other areas. 
 A following question is: what is the driving force of the sharp increase of Asia since 1990?
