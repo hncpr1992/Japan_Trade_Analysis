@@ -9,7 +9,7 @@ This graph shows that back to 1988, The North America is the biggest trading par
 A following question is: what is the driving force of the sharp increase of Asia since 1990?
 We can draw a futher plot for the Asia from 1988 to 2015 but only focus on the top 12 countries in Asia that influence Japan most
 
-<img src="jap_asia_trade.png">
+<img src="jap_asia_trade.png"  width="800">
 
 Clearly, the dominant driving force of the increase of Japanese trade to the Asian Area is its trade with China.
 
